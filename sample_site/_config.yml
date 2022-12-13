@@ -11,3 +11,6 @@ baseurl: "/jekyll-actions-quickstart"
 github_username: k1nd
 
 theme: minima
+
+plugins:
+  - jekyll-relative-links

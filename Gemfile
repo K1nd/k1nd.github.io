@@ -7,4 +7,5 @@ gem "minima", "~> 2.5"
 
 group :jekyll_plugins do
   gem "jekyll-timeago", "~> 0.13.1"
+  gem 'jekyll-relative-links'
 end

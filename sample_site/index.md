@@ -18,8 +18,8 @@ This project has the following purposes:
 
 ### Information
 
-- [About Actions]({% link sample_site/about.md %}) page - this describes how you can use a custom CI flow with GitHub Actions to serve on GitHub Pages.
-- [Tutorial]({% link sample_site/tutorial.md %}) page - instructions and resources to add Actions to your Jekyll site.
+- [About Actions](about.md) page - this describes how you can use a custom CI flow with GitHub Actions to serve on GitHub Pages.
+- [Tutorial](tutorial.md) page - instructions and resources to add Actions to your Jekyll site.
 
 ### Template
 
@@ -28,5 +28,5 @@ This project has the following purposes:
 ### Live demo
 
 - This site shows the result of a static site built with Jekyll Actions, using Jekyll 4 and a custom plugin.
-- See the custom plugin in action on the [Time ago]({% link sample_site/time-ago.md %}) page.
+- See the custom plugin in action on the [Time ago](time-ago.md) page.
 - See this site's [repo](https://github.com/MichaelCurrin/jekyll-actions-quickstart) to see how this project is setup. Note the GH workflows section and the `sample_site` directory which is found _automatically_ because of the config file.
